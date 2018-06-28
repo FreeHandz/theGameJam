@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2018-06-28T21:16:41.156+03:00
+  lastUpdatedAtString: 2018-06-28T21:17:34.621+03:00
   initializedAtString: 2018-06-28T21:16:41.156+03:00
   currentGitRemote:
     name: origin
@@ -34,4 +34,4 @@ MonoBehaviour:
   currentConfigRemote:
     name: origin
     url: https://github.com/FreeHandz/theGameJam.git
-  currentHead: 60b6560
+  currentHead: 2158602
