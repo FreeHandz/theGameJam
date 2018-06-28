@@ -12,10 +12,52 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-06-28T21:46:12.936+03:00
+  lastUpdatedAtString: 2018-06-28T21:47:42.908+03:00
   initializedAtString: 2018-06-28T21:16:42.682+03:00
   log:
-  - commitID: 0e999064d594a2199eaeeb58e89cec8b3de37975
+  - commitID: 3be69563f68b37381d29c24469dbb7ad23f91dd6
+    mergeA: 
+    mergeB: 
+    authorName: FreeHandz
+    authorEmail: hejjanorbo@gmail.com
+    commitEmail: hejjanorbo@gmail.com
+    commitName: FreeHandz
+    summary: hi
+    description: hi
+    timeString: 2018-06-28T21:46:34.000+03:00
+    commitTimeString: 2018-06-28T21:47:16.000+03:00
+    changes:
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 37f3bcb096a61cceab43e576836efbde4743823e
     mergeA: 
     mergeB: 
     authorName: FreeHandz
@@ -25,7 +67,7 @@ MonoBehaviour:
     summary: gitignore
     description: gitignore
     timeString: 2018-06-28T21:46:12.000+03:00
-    commitTimeString: 2018-06-28T21:46:12.000+03:00
+    commitTimeString: 2018-06-28T21:47:16.000+03:00
     changes:
     - path: .gitignore
       fullPath: C:\Users\Norbo\Programming\CarMadnessv1\.gitignore
@@ -33,7 +75,7 @@ MonoBehaviour:
       originalPath: 
       status: 3
       staged: 0
-  - commitID: 06b06a3cfddce8db916e3aa8e06917cb37421f3e
+  - commitID: f9ea37052ae49aec5146cb79c712723c380e26b1
     mergeA: 
     mergeB: 
     authorName: FreeHandz
@@ -43,7 +85,7 @@ MonoBehaviour:
     summary: lib
     description: lib
     timeString: 2018-06-28T21:44:26.000+03:00
-    commitTimeString: 2018-06-28T21:44:26.000+03:00
+    commitTimeString: 2018-06-28T21:47:15.000+03:00
     changes:
     - path: Library\gfu\cache\gitstatusentries.yaml
       fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Library\gfu\cache\gitstatusentries.yaml
@@ -57,7 +99,7 @@ MonoBehaviour:
       originalPath: 
       status: 3
       staged: 0
-  - commitID: 2b62aaaea43eade0e2d079a95c7ce57824a3c583
+  - commitID: d8df610eb85a60ba4aec39b32f1c7620aa8e5796
     mergeA: 
     mergeB: 
     authorName: FreeHandz
@@ -67,11 +109,29 @@ MonoBehaviour:
     summary: gitignore
     description: gitignore
     timeString: 2018-06-28T21:43:46.000+03:00
-    commitTimeString: 2018-06-28T21:43:46.000+03:00
+    commitTimeString: 2018-06-28T21:47:15.000+03:00
     changes:
     - path: .gitignore
       fullPath: C:\Users\Norbo\Programming\CarMadnessv1\.gitignore
       projectPath: .gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 1672f9756c5f4e0b01a127fcc7be44e78e340064
+    mergeA: 
+    mergeB: 
+    authorName: "Norb\uFFFD"
+    authorEmail: hejjanorbo@gmail.com
+    commitEmail: hejjanorbo@gmail.com
+    commitName: "Norb\uFFFD"
+    summary: l
+    description: l
+    timeString: 2018-06-28T21:36:45.000+02:00
+    commitTimeString: 2018-06-28T21:36:45.000+02:00
+    changes:
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
       originalPath: 
       status: 4
       staged: 0
