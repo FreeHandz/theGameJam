@@ -12,9 +12,429 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-06-28T21:18:22.099+03:00
+  lastUpdatedAtString: 2018-06-28T21:46:12.936+03:00
   initializedAtString: 2018-06-28T21:16:42.682+03:00
   log:
+  - commitID: 0e999064d594a2199eaeeb58e89cec8b3de37975
+    mergeA: 
+    mergeB: 
+    authorName: FreeHandz
+    authorEmail: hejjanorbo@gmail.com
+    commitEmail: hejjanorbo@gmail.com
+    commitName: FreeHandz
+    summary: gitignore
+    description: gitignore
+    timeString: 2018-06-28T21:46:12.000+03:00
+    commitTimeString: 2018-06-28T21:46:12.000+03:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 06b06a3cfddce8db916e3aa8e06917cb37421f3e
+    mergeA: 
+    mergeB: 
+    authorName: FreeHandz
+    authorEmail: hejjanorbo@gmail.com
+    commitEmail: hejjanorbo@gmail.com
+    commitName: FreeHandz
+    summary: lib
+    description: lib
+    timeString: 2018-06-28T21:44:26.000+03:00
+    commitTimeString: 2018-06-28T21:44:26.000+03:00
+    changes:
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 2b62aaaea43eade0e2d079a95c7ce57824a3c583
+    mergeA: 
+    mergeB: 
+    authorName: FreeHandz
+    authorEmail: hejjanorbo@gmail.com
+    commitEmail: hejjanorbo@gmail.com
+    commitName: FreeHandz
+    summary: gitignore
+    description: gitignore
+    timeString: 2018-06-28T21:43:46.000+03:00
+    commitTimeString: 2018-06-28T21:43:46.000+03:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: a1736e24e562dcc83824a1e521605ea396e49310
+    mergeA: 
+    mergeB: 
+    authorName: FreeHandz
+    authorEmail: hejjanorbo@gmail.com
+    commitEmail: hejjanorbo@gmail.com
+    commitName: FreeHandz
+    summary: lib
+    description: lib
+    timeString: 2018-06-28T21:19:33.000+03:00
+    commitTimeString: 2018-06-28T21:19:33.000+03:00
+    changes:
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\.icon.png
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\.icon.png
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\.icon.png
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\0188ec438976e5849b40a2c1ce5f20f9\asset
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\0188ec438976e5849b40a2c1ce5f20f9\asset
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\0188ec438976e5849b40a2c1ce5f20f9\asset
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\0188ec438976e5849b40a2c1ce5f20f9\asset.meta
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\0188ec438976e5849b40a2c1ce5f20f9\asset.meta
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\0188ec438976e5849b40a2c1ce5f20f9\asset.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\0188ec438976e5849b40a2c1ce5f20f9\pathname
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\0188ec438976e5849b40a2c1ce5f20f9\pathname
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\0188ec438976e5849b40a2c1ce5f20f9\pathname
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\136dc24f151211d438acee17aff4e934\asset
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\136dc24f151211d438acee17aff4e934\asset
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\136dc24f151211d438acee17aff4e934\asset
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\136dc24f151211d438acee17aff4e934\asset.meta
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\136dc24f151211d438acee17aff4e934\asset.meta
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\136dc24f151211d438acee17aff4e934\asset.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\136dc24f151211d438acee17aff4e934\pathname
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\136dc24f151211d438acee17aff4e934\pathname
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\136dc24f151211d438acee17aff4e934\pathname
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\151a1d946b98deb4b98445400983ba92\asset
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\151a1d946b98deb4b98445400983ba92\asset
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\151a1d946b98deb4b98445400983ba92\asset
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\151a1d946b98deb4b98445400983ba92\asset.meta
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\151a1d946b98deb4b98445400983ba92\asset.meta
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\151a1d946b98deb4b98445400983ba92\asset.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\151a1d946b98deb4b98445400983ba92\pathname
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\151a1d946b98deb4b98445400983ba92\pathname
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\151a1d946b98deb4b98445400983ba92\pathname
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\15ca2bebf173f2d4484686a03a45b56d\asset
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\15ca2bebf173f2d4484686a03a45b56d\asset
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\15ca2bebf173f2d4484686a03a45b56d\asset
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\15ca2bebf173f2d4484686a03a45b56d\asset.meta
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\15ca2bebf173f2d4484686a03a45b56d\asset.meta
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\15ca2bebf173f2d4484686a03a45b56d\asset.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\15ca2bebf173f2d4484686a03a45b56d\pathname
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\15ca2bebf173f2d4484686a03a45b56d\pathname
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\15ca2bebf173f2d4484686a03a45b56d\pathname
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\18e096a98c2704c40a818dd1214cd179\asset.meta
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\18e096a98c2704c40a818dd1214cd179\asset.meta
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\18e096a98c2704c40a818dd1214cd179\asset.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\18e096a98c2704c40a818dd1214cd179\pathname
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\18e096a98c2704c40a818dd1214cd179\pathname
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\18e096a98c2704c40a818dd1214cd179\pathname
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\21206c65839f84d0e9ae14bc1fdc68db\asset
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\21206c65839f84d0e9ae14bc1fdc68db\asset
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\21206c65839f84d0e9ae14bc1fdc68db\asset
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\21206c65839f84d0e9ae14bc1fdc68db\asset.meta
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\21206c65839f84d0e9ae14bc1fdc68db\asset.meta
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\21206c65839f84d0e9ae14bc1fdc68db\asset.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\21206c65839f84d0e9ae14bc1fdc68db\pathname
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\21206c65839f84d0e9ae14bc1fdc68db\pathname
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\21206c65839f84d0e9ae14bc1fdc68db\pathname
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\23c8bee69b591054094d32918f98facd\asset
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\23c8bee69b591054094d32918f98facd\asset
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\23c8bee69b591054094d32918f98facd\asset
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\23c8bee69b591054094d32918f98facd\asset.meta
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\23c8bee69b591054094d32918f98facd\asset.meta
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\23c8bee69b591054094d32918f98facd\asset.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\23c8bee69b591054094d32918f98facd\pathname
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\23c8bee69b591054094d32918f98facd\pathname
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\23c8bee69b591054094d32918f98facd\pathname
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\2590b98e5cafc4e32b61170d7b917ee6\asset
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\2590b98e5cafc4e32b61170d7b917ee6\asset
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\2590b98e5cafc4e32b61170d7b917ee6\asset
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\2590b98e5cafc4e32b61170d7b917ee6\asset.meta
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\2590b98e5cafc4e32b61170d7b917ee6\asset.meta
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\2590b98e5cafc4e32b61170d7b917ee6\asset.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\2590b98e5cafc4e32b61170d7b917ee6\pathname
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\2590b98e5cafc4e32b61170d7b917ee6\pathname
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\2590b98e5cafc4e32b61170d7b917ee6\pathname
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\48c22d5d7479fcb49ab3be0cdd2ccec0\asset
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\48c22d5d7479fcb49ab3be0cdd2ccec0\asset
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\48c22d5d7479fcb49ab3be0cdd2ccec0\asset
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\48c22d5d7479fcb49ab3be0cdd2ccec0\asset.meta
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\48c22d5d7479fcb49ab3be0cdd2ccec0\asset.meta
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\48c22d5d7479fcb49ab3be0cdd2ccec0\asset.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\48c22d5d7479fcb49ab3be0cdd2ccec0\pathname
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\48c22d5d7479fcb49ab3be0cdd2ccec0\pathname
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\48c22d5d7479fcb49ab3be0cdd2ccec0\pathname
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\636d33ae594884e7d80b569f429d245d\asset
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\636d33ae594884e7d80b569f429d245d\asset
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\636d33ae594884e7d80b569f429d245d\asset
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\636d33ae594884e7d80b569f429d245d\asset.meta
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\636d33ae594884e7d80b569f429d245d\asset.meta
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\636d33ae594884e7d80b569f429d245d\asset.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\636d33ae594884e7d80b569f429d245d\pathname
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\636d33ae594884e7d80b569f429d245d\pathname
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\636d33ae594884e7d80b569f429d245d\pathname
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\68c7e4565cde54155bb78d8e935f1dd4\asset
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\68c7e4565cde54155bb78d8e935f1dd4\asset
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\68c7e4565cde54155bb78d8e935f1dd4\asset
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\68c7e4565cde54155bb78d8e935f1dd4\asset.meta
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\68c7e4565cde54155bb78d8e935f1dd4\asset.meta
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\68c7e4565cde54155bb78d8e935f1dd4\asset.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\68c7e4565cde54155bb78d8e935f1dd4\pathname
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\68c7e4565cde54155bb78d8e935f1dd4\pathname
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\68c7e4565cde54155bb78d8e935f1dd4\pathname
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\720712be6e31c444f88f57bb85bf5fa5\asset.meta
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\720712be6e31c444f88f57bb85bf5fa5\asset.meta
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\720712be6e31c444f88f57bb85bf5fa5\asset.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\720712be6e31c444f88f57bb85bf5fa5\pathname
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\720712be6e31c444f88f57bb85bf5fa5\pathname
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\720712be6e31c444f88f57bb85bf5fa5\pathname
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\790749ba7e4b18141953e39cb13f1b79\asset
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\790749ba7e4b18141953e39cb13f1b79\asset
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\790749ba7e4b18141953e39cb13f1b79\asset
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\790749ba7e4b18141953e39cb13f1b79\asset.meta
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\790749ba7e4b18141953e39cb13f1b79\asset.meta
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\790749ba7e4b18141953e39cb13f1b79\asset.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\790749ba7e4b18141953e39cb13f1b79\pathname
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\790749ba7e4b18141953e39cb13f1b79\pathname
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\790749ba7e4b18141953e39cb13f1b79\pathname
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\868fbb4c41814baebc00f96e24ede2f8\asset
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\868fbb4c41814baebc00f96e24ede2f8\asset
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\868fbb4c41814baebc00f96e24ede2f8\asset
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\868fbb4c41814baebc00f96e24ede2f8\asset.meta
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\868fbb4c41814baebc00f96e24ede2f8\asset.meta
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\868fbb4c41814baebc00f96e24ede2f8\asset.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\868fbb4c41814baebc00f96e24ede2f8\pathname
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\868fbb4c41814baebc00f96e24ede2f8\pathname
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\868fbb4c41814baebc00f96e24ede2f8\pathname
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\99b48d4d4f6a66340ab06bd487d70a45\asset.meta
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\99b48d4d4f6a66340ab06bd487d70a45\asset.meta
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\99b48d4d4f6a66340ab06bd487d70a45\asset.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\99b48d4d4f6a66340ab06bd487d70a45\pathname
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\99b48d4d4f6a66340ab06bd487d70a45\pathname
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\99b48d4d4f6a66340ab06bd487d70a45\pathname
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\a0ded7adcc817ce489fec07977f16d13\asset.meta
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\a0ded7adcc817ce489fec07977f16d13\asset.meta
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\a0ded7adcc817ce489fec07977f16d13\asset.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\a0ded7adcc817ce489fec07977f16d13\pathname
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\a0ded7adcc817ce489fec07977f16d13\pathname
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\a0ded7adcc817ce489fec07977f16d13\pathname
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\a83159a46d87d2a4f8cec651049b9231\asset
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\a83159a46d87d2a4f8cec651049b9231\asset
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\a83159a46d87d2a4f8cec651049b9231\asset
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\a83159a46d87d2a4f8cec651049b9231\asset.meta
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\a83159a46d87d2a4f8cec651049b9231\asset.meta
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\a83159a46d87d2a4f8cec651049b9231\asset.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\a83159a46d87d2a4f8cec651049b9231\pathname
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\a83159a46d87d2a4f8cec651049b9231\pathname
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\a83159a46d87d2a4f8cec651049b9231\pathname
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c5c83d14802e712408f23409f3c59e26\asset
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c5c83d14802e712408f23409f3c59e26\asset
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c5c83d14802e712408f23409f3c59e26\asset
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c5c83d14802e712408f23409f3c59e26\asset.meta
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c5c83d14802e712408f23409f3c59e26\asset.meta
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c5c83d14802e712408f23409f3c59e26\asset.meta
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c5c83d14802e712408f23409f3c59e26\pathname
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c5c83d14802e712408f23409f3c59e26\pathname
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c5c83d14802e712408f23409f3c59e26\pathname
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c743ae24ee231884887054d20ccdd0ae\asset
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c743ae24ee231884887054d20ccdd0ae\asset
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c743ae24ee231884887054d20ccdd0ae\asset
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c743ae24ee231884887054d20ccdd0ae\asset.meta
+      fullPath: C:\Users\Norbo\Programming\CarMadnessv1\Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c743ae24ee231884887054d20ccdd0ae\asset.meta
+      projectPath: Temp\Export Package\11c05b8d859c3e64096aa6024050360d\c743ae24ee231884887054d20ccdd0ae\asset.meta
+      originalPath: 
+      status: 5
+      staged: 0
   - commitID: fe2b67a7529f72cfc778175ea5a55efa6e7926d0
     mergeA: 
     mergeB: 
